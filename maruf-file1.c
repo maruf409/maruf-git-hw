@@ -1,0 +1,3 @@
+char* maruf(){
+return “maruf”;
+}
